@@ -8,7 +8,6 @@ const Home: NextPage = () => {
       <Head>
         <title>Nimbley - Binnenkort beschikbaar</title>
         <meta name="description" content="Nimbley coming soon" />
-        {/* <link rel="icon" href="/favicon.ico" /> */}
       </Head>
       <main className="flex min-h-screen flex-col items-center justify-center bg-[#2E4766]">
       <div className="mx-auto flex items-center justify-center px-5">
@@ -25,9 +24,6 @@ const Home: NextPage = () => {
             </div>
           </div>
         </div>
-      
-
-
       </main>
     </>
   );
